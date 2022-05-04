@@ -1,13 +1,13 @@
-package com.teste.porto;
+package com.teste.pessoa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PortoApplication {
+public class PessoaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PortoApplication.class, args);
+		SpringApplication.run(PessoaApplication.class, args);
 	}
 
 }

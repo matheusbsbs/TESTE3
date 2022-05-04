@@ -1,10 +1,10 @@
-package com.teste.porto;
+package com.teste.pessoa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PortoApplicationTests {
+class PessoaApplicationTests {
 
 	@Test
 	void contextLoads() {
